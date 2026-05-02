@@ -27,7 +27,6 @@ docker run -it --rm -p 8000:8000 -e MOBSF_ANALYZER_IDENTIFIER=emulator-5554 open
 <img width="1248" height="370" alt="image" src="https://github.com/user-attachments/assets/7cbcdbed-8cd7-421c-88d9-93b9a4f347fa" />
 
 
-> **[Image de l'architecture de MobSF et son interaction avec l'émulateur]**
 
 
 <img width="1144" height="420" alt="image" src="https://github.com/user-attachments/assets/f745c8c7-bb15-4991-8770-4434253dc3e9" />
@@ -43,7 +42,7 @@ L'application DIVA est soumise à des tests de runtime pour observer les vulnér
 *   **Insecure Data Storage** : Détection de fichiers XML ou bases de données écrits en clair dans `/data/data/`.
 *   **Network Traffic** : Interception du trafic (HTTP/HTTPS) via le proxy global de MobSF.
 
-### 📸 Captures d'écran attendues :
+
 > <img width="460" height="861" alt="image" src="https://github.com/user-attachments/assets/3356e7a2-3e71-42ba-a9be-d6a07b33a21a" />
 
 <img width="1701" height="923" alt="image" src="https://github.com/user-attachments/assets/9fa8c74d-7572-4d43-8455-dd6f4dbc60f6" />
